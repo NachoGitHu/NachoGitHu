@@ -12,14 +12,64 @@
 Full Stack Developer en formacion 🚀 | Aprendiendo nuevas tecnologias y siempre dispuesto a dar lo mejor.
 </h3>
 
- # 🧑‍💻 Quien soy y mis Ambiciones
+ ## 🧑‍💻 Quien soy y mis Ambiciones
  - 🎓 Estudiante de la Universidad Provincial de Cordoba, Tecnicatura Universitaria en Programacion Full Stack.
- - 🌱 Estudiando SQL LITE, PHYTON, JAVA, JAVASCRIPT
+ - 🌱 Estudiando SQL LITE, PHYTON, JAVA, JAVASCRIPT.
+ - 💼 En busca de oportunidades laborales dentro del desarrollo de software.
+ - 🏠 Cordoba, Argentina
+ - ⚡Tengo capacidad para adaptarme rapidamente a trabajos nuevos y relacionarme con mis compañeros.
 
 
+ ## 🛠️ Stack de tecnologías
+ <h3 align="left">
+ Frontend
+ </h3>
+ <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+ <h3 align="left">
+ Backend & Datos
+ </h3>
+ <p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
+
+
+ <h1 ALIGN="left">
+ 🚀 Mis proyectos
+  </h1>
+<h3 align="left">
+📌 Rifalo ya! (EN PROCESO)
+</h3>
+
+Se trata de una pagina web donde los vendedores pueden sortear rifas sin necesidad de cargar los datos del comprador, y donde los usuarios pueden explorar las rifas de la pagina!
+
+Tecnologías: 
+
+ *DEMO | * VER CODIGO
+
+
+ 
+
+<p align="center">
+  
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=NachoGitHu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  </p>
+  <br/>
+  
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoGitHu&layout=compact&langs_count=6&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NachoGitHu&theme=tokyonight" />
+</p>
+<br/>
 
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NachoGitHu&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
   
  
+  
