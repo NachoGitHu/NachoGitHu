@@ -47,25 +47,28 @@ Tecnologías:
  *DEMO | * VER CODIGO
 
 
- 
+
+
+
 
 <p align="center">
-  
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=NachoGitHu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  </p>
-  <br/>
-  
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoGitHu&layout=compact&langs_count=6&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=NachoGitHu&theme=tokyonight"
   />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoGitHu&theme=tokyonight" />
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NachoGitHu&theme=tokyonight"
+  />
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NachoGitHu&theme=tokyonight"
+  />
 </p>
-<br/>
+ 
+
+
+
 
 
 <!-- VISTAS DEL PERFIL -->
